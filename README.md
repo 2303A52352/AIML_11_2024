@@ -6,6 +6,6 @@
 5.[Lab-05](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab05.ipynb)
 6.[Lab-06](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab06.ipynb)
 7.[Lab-07](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab07.ipynb)
-8.[Lab-08](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
+8.[Lab-08](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab08.ipynb)
 9.[Lab-9](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
 10.[Lab-10](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
