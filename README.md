@@ -1,4 +1,4 @@
-# Aiml-Labs-1002
+## Aiml-Labs-1002
 1.[Lab-01](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
 2.[Lab-02](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab02.ipynb)
 3.[Lab-03](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab03.ipynb)
@@ -8,4 +8,4 @@
 7.[Lab-07](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab07.ipynb)
 8.[Lab-08](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab08.ipynb)
 9.[Lab-9](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
-10.[Lab-10](https://github.com/arshiyaarshh07/AIML_11_2024/blob/main/AIML_Lab01.ipynb)
+
